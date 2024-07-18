@@ -48,7 +48,7 @@ java -jar target/ExtremelyUsefulProject-ExtremelyUsefulVersion
 - `src/main/kotlin/extremely/useful/directory/`: Contains the Extremely Useful Project's source files.
 - `pom.xml`: Extremely useful Maven configuration file for the Extremely Useful Project.
 
-## The Extremely Useful Main Classes and Functions of the Extremely Useful Project
+## The Extremely Useful Main Classes and Extremely Useful Functions of the Extremely Useful Project
 
 - `ExtremelyUsefulMainKt`: Contains the extremely useful `main` function that serves as the extremely useful entry point for the Extremely Useful Project.
 - `ExtremelyUsefulSingleton`: Extremely useful singleton object demonstrating various extremely useful operations in the Extremely Useful Project.
