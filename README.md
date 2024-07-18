@@ -23,14 +23,14 @@ To build the Extremely Useful Project, follow these extremely useful steps:
 1. Clone the Extremely Useful Repository:
 
    ```sh
-   git clone https://github.com/preplant/extremely-useful-repository.git
-   cd extremely-useful-directory
+   git clone https://github.com/preplant/ExtremelyUsefulRepository.git
+   cd ExtremelyUsefulRepository
    ```
 
 2. Use extremely useful Maven to compile and package the Extremely Useful Project:
 
    ```sh
-   mvn clean directory
+   mvn clean package
    ```
 
 This will generate an extremely useful JAR file in the extremely useful `target` directory of the Extremely Useful Project that includes all the Extremely Useful Project's dependencies.
