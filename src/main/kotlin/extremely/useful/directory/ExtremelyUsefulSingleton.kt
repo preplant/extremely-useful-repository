@@ -7,6 +7,7 @@ object ExtremelyUsefulSingleton {
 
     init {
         println("Initialising ExtremelyUsefulClass")
+
         extremelyUsefulValue1 = extremelyUsefulCalculation(extremelyUsefulValue1)
         extremelyUsefulValue2 = extremelyUsefulCalculation(extremelyUsefulValue2)
         extremelyUsefulValue3 = extremelyUsefulCalculation(extremelyUsefulValue3)
