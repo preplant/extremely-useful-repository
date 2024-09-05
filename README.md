@@ -1,4 +1,4 @@
-### The Extremely Useful Project ✨
+# The Extremely Useful Project ✨
 
 This is the Extremely Useful Project, a Kotlin-based, extremely useful project that demonstrates various extremely useful functionalities.
 
