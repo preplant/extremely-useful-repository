@@ -1,6 +1,6 @@
 # The Extremely Useful Project ✨
 
-This is the Extremely Useful Project, a Kotlin-based, extremely useful project that demonstrates various extremely useful functionalities.
+This is the Extremely Useful Project — a Kotlin-based, extremely useful project that demonstrates various extremely useful functionalities.
 
 ## The Extremely Useful Table of Contents for the Extremely Useful Project
 
