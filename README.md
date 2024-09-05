@@ -59,4 +59,4 @@ Unfortunately, no extremely useful help is available for the Extremely Useful Pr
 
 ---
 
-Thank you for using the Extremely Useful Project!
+### Thank you for using the Extremely Useful Project!
